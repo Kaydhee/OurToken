@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
+pragma solidity ^0.8.19;
 
 // The code below is simply commented out to avoid conflicts with the existing codebase ().
 
-// pragma solidity ^0.8.19;
 
 // contract ManualToken {
 //     mapping(address => uint256) private s_balances;
